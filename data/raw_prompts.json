@@ -1,0 +1,4 @@
+[
+  {"id": 1, "app_id": 1, "question": "¿Cuáles son las obligaciones fiscales de una pyme en Chile?", "response": "Las principales obligaciones incluyen declaración mensual de IVA, pago de PPM y declaraciones anuales, entre otras.", "temperature": 1},
+  {"id": 2, "app_id": 1, "question": "Diferencia entre acusación y sentencia en un proceso penal.", "response": "La acusación es la imputación formal de un delito; la sentencia es la decisión final del tribunal que resuelve el caso.", "temperature": 1}
+]
